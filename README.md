@@ -24,7 +24,7 @@ Parameters:
 ## Example
 
 ```javascript
-var createBox = require('primtivie-box');
+var createBox = require('primitive-box');
 var box = createCreate(1);
 ```
 
